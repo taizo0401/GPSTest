@@ -12,6 +12,7 @@
 // feature_test3
 // hotfix_1538
 // feature test1
+// feature test2
 
 #import "ViewController.h"
 
